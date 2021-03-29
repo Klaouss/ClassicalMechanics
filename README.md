@@ -5,4 +5,4 @@ I have 9 lectures that include Euler-Langrange Equation explanation and derivati
 
 Feel free to use this information in way you like, but please refrence this repository!
 
-This work was done over the week 4/3/2019 - 11/3/2019 and was uploaded on
+This work was done over the week 4/3/2019 - 11/3/2019 butwas uploaded on December 2020
